@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reuseable-card-component/static/css/main.8422a9d1.css",
+    "main.js": "/reuseable-card-component/static/js/main.735ae9c9.js",
+    "index.html": "/reuseable-card-component/index.html",
+    "main.8422a9d1.css.map": "/reuseable-card-component/static/css/main.8422a9d1.css.map",
+    "main.735ae9c9.js.map": "/reuseable-card-component/static/js/main.735ae9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8422a9d1.css",
+    "static/js/main.735ae9c9.js"
+  ]
+}
